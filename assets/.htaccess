@@ -1,5 +1,7 @@
 //Change default directory page
 DirectoryIndex gofiot.min.html
+
+ 
  //Caching schema
 <FilesMatch "\.(jpg|png|js|css|html)$">
 Header set Cache-Control "public, max-age=3628800000"
